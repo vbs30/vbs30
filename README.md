@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vinayak Suryavanshi
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Full Stack development, DevOps as well as core Java
+- 🌱 I’m currently learning Machine Learning and Amazon AWS 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Can have a convo on Insta-@vbs30 or LinkedIn-Vinayak Suryavanshi
 
 <!---
 vbs30/vbs30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
