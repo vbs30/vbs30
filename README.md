@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Can have a convo on Insta-@vbs30 or LinkedIn-Vinayak Suryavanshi
 
-- Skills:
+<hr>
+
+- Skills and Tools:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
