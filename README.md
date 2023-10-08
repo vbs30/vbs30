@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vinayak Suryavanshi
 - 👀 I’m interested in Full Stack development, DevOps and core Java
-- 🌱 I’m currently learning Machine Learning and Amazon AWS 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning, and would like to move to Microsoft Azure or Oracle Cloud
 - 📫 Can have a convo on Insta-@vbs30 or LinkedIn-Vinayak Suryavanshi
 
 <hr>
