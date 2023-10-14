@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **many single handed projects and other tasks.**
 
-- 📫 How to reach me **vbs02002@gmail.com**
+- 📫 Reach me at **vbs02002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xTPjiK7EPCQcJkH53g1ou3cw1Ym9HY0o/view?usp=drive_link](https://drive.google.com/file/d/1xTPjiK7EPCQcJkH53g1ou3cw1Ym9HY0o/view?usp=drive_link)
+- 📄 Resume Link: [https://drive.google.com/file/d/1xTPjiK7EPCQcJkH53g1ou3cw1Ym9HY0o/view?usp=drive_link](https://drive.google.com/file/d/1xTPjiK7EPCQcJkH53g1ou3cw1Ym9HY0o/view?usp=drive_link)
 
 <br>
 <h3 align="left">Connect with me:</h3>
