@@ -75,3 +75,4 @@
 
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbs30&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vbs30" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vbs30&show_icons=true&locale=en&theme=tokyonight" alt="vbs30" /></p>
