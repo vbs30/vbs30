@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak Suryavanshi</h1>
 <h3 align="center">A passionate Full Stack developer, Enthusiastic learner.</h3><br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vbs30&label=Profile%20views&color=0e75b6&style=flat" alt="vbs30" /> </p>
 
 - 🔭 I’m currently working on **A Machine Learning Project named Predicting Missing Values using Hybrid Imputation Method.**
 
@@ -32,8 +31,8 @@
 </p>
 
 
-<h3 align="left">Databases:</h3>
-<p align="left">
+<h3 align="right">Databases:</h3>
+<p align="right">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
