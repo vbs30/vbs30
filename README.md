@@ -11,7 +11,6 @@
 
 - 📄 Resume Link: [https://drive.google.com/file/d/1xTPjiK7EPCQcJkH53g1ou3cw1Ym9HY0o/view?usp=drive_link](https://drive.google.com/file/d/1xTPjiK7EPCQcJkH53g1ou3cw1Ym9HY0o/view?usp=drive_link)
 
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/vinayak-suryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vinayak-suryavanshi" height="30" width="40" /></a>
