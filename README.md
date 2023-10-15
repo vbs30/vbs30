@@ -74,4 +74,4 @@
 </p>
 
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbs30&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vbs30" /></p>
