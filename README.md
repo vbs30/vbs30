@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak Suryavanshi</h1>
 <h3 align="center">A passionate Full Stack developer, Enthusiastic learner.</h3><br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **A Machine Learning Project named Predicting Missing Values using Hybrid Imputation Method.**
 
