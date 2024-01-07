@@ -5,7 +5,7 @@
 </p>
 <!-- <img src="https://komarev.com/ghpvc/?username=vbs30&label=PROFILE+VIEWS&style=for-the-badge&color=orange"> -->
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
+<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/415035abe402bd83c4e8ded5aca75c49789ed4b469bcb85497a1113d7d4819db/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1rIvJkMWBbzcGXcOcAvJAf&ust=1704709739525000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjyoOaIy4MDFQAAAAAdAAAAABAD)">
 
 - 🔭 I’m currently working on **A Machine Learning Project named Predicting Missing Values using Hybrid Imputation Method.**
 
