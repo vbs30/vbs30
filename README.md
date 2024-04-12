@@ -5,7 +5,7 @@
 </p>
 <!-- <img src="https://komarev.com/ghpvc/?username=vbs30&label=PROFILE+VIEWS&style=for-the-badge&color=orange"> -->
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height=250 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🔭 I’m currently working on **A Machine Learning Project named Predicting Missing Values using Hybrid Imputation Method.**
 
