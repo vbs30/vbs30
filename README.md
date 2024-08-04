@@ -26,6 +26,88 @@
 </p>
 <br>
 
+<h2>Systenics Solutions Assignments</h2>
+<table border="1" cellpadding="10" cellspacing="0">
+    <thead>
+        <tr style="background-color: #333; color: white;">
+            <th>Topics</th>
+            <th>Status</th>
+            <th>Work-Links</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="background-color: #444; color: white;">
+            <td>JavaScript</td>
+            <td>Completed</td>
+            <td><a href="https://domain-name-validator-company-task1.vercel.app/">Check Work</a></td>
+        </tr>
+        <tr style="background-color: #555; color: white;">
+            <td>jQuery</td>
+            <td>Completed</td>
+            <td><a href="https://form-validation-company-task2.vercel.app/">Check Work</a></td>
+        </tr>
+        <tr style="background-color: #444; color: white;">
+            <td>HTML-CSS</td>
+            <td>Completed</td>
+            <td><a href="https://mockup-page.vercel.app/">Check Work</a></td>
+        </tr>
+        <tr style="background-color: #555; color: white;">
+            <td>Bootstrap - 3.4.1</td>
+            <td>Completed</td>
+            <td><a href="https://mademoiselle-mockup-page.vercel.app/">Check Work</a></td>
+        </tr>
+        <tr style="background-color: #444; color: white;">
+            <td>C#</td>
+            <td>Ongoing</td>
+            <td><a href="" style="color: #fff;"></a></td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<h2>My Project Repositories</h2>
+<table border="1" cellpadding="10" cellspacing="0">
+    <thead>
+        <tr style="background-color: #333; color: white;">
+            <th>Repository-Name</th>
+            <th>Repository-Links</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="background-color: #444; color: white;">
+            <td>PC-Powerhouse: The-One-Stop-Shop-For-Computer-Parts</td>
+            <td><a href="https://github.com/vbs30/PC-Powerhouse-The-One-Stop-Shop-for-Computer-Parts">Check Repo</a>
+            </td>
+        </tr>
+        <tr style="background-color: #555; color: white;">
+            <td>Basket-Trends: Understanding-Consumer's-Choice</td>
+            <td><a href="https://github.com/vbs30/Basket-Trends-Understanding-Consumer-s-Choice">Check Repo</a></td>
+        </tr>
+        <tr style="background-color: #444; color: white;">
+            <td>Shopify</td>
+            <td><a href="https://github.com/vbs30/Shopify">Check Repo</a></td>
+        </tr>
+        <tr style="background-color: #555; color: white;">
+            <td>Smart Container</td>
+            <td><a href="https://github.com/vbs30/Smart-Container">Check Repo</a></td>
+        </tr>
+        <tr style="background-color: #444; color: white;">
+            <td>Fresh from the Farm</td>
+            <td><a href="https://github.com/vbs30/Fresh-From-the-Farm">Check Repo</a></td>
+        </tr>
+        <tr style="background-color: #555; color: white;">
+            <td>Health Insurance System</td>
+            <td><a href="https://github.com/vbs30/Health-Insurance-System">Check Repo</a></td>
+        </tr>
+        <tr style="background-color: #444; color: white;">
+            <td>Smart City Management System</td>
+            <td><a href="https://github.com/vbs30/Smart-City-Management-System">Check Repo</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
@@ -84,43 +166,3 @@
   <img align="center" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbs30&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vbs30" />
   <img align="center" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api?username=vbs30&show_icons=true&locale=en&theme=tokyonight" alt="vbs30" />
 </p>
-
-<br>
-
-<h2>Systenics Solutions Assignments</h2>
-    <table border="1" cellpadding="10" cellspacing="0">
-        <thead>
-            <tr style="background-color: #333; color: white;">
-                <th>Topics</th>
-                <th>Status</th>
-                <th>Work-Links</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr style="background-color: #444; color: white;">
-                <td>JavaScript</td>
-                <td>Completed</td>
-                <td><a href="https://domain-name-validator-company-task1.vercel.app/">Check Work</a></td>
-            </tr>
-            <tr style="background-color: #555; color: white;">
-                <td>jQuery</td>
-                <td>Completed</td>
-                <td><a href="https://form-validation-company-task2.vercel.app/">Check Work</a></td>
-            </tr>
-            <tr style="background-color: #444; color: white;">
-                <td>HTML-CSS</td>
-                <td>Completed</td>
-                <td><a href="https://mockup-page.vercel.app/">Check Work</a></td>
-            </tr>
-            <tr style="background-color: #555; color: white;">
-                <td>Bootstrap - 3.4.1</td>
-                <td>Completed</td>
-                <td><a href="https://mademoiselle-mockup-page.vercel.app/">Check Work</a></td>
-            </tr>
-            <tr style="background-color: #444; color: white;">
-                <td>C#</td>
-                <td>Ongoing</td>
-                <td><a href="" style="color: #fff;"></a></td>
-            </tr>
-        </tbody>
-    </table>
