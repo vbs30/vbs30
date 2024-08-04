@@ -19,10 +19,10 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vinayak-suryavanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vinayak-suryavanshi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinayak-suryavanshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vinayak-suryavanshi" height="30" width="40" /></a>
 <a href="https://instagram.com/vbs_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vbs_30" height="30" width="40" /></a>
 <a href="https://medium.com/@vbs02002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vbs02002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vbs30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vbs30" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/VBS_30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vbs30" height="30" width="40" /></a>
 </p>
 <br>
 
