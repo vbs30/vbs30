@@ -26,7 +26,7 @@
 </p>
 <br>
 
-<h2>Systenics Solutions Assignments</h2>
+<h2>Systenics Solutions Training Assignments</h2>
 <table border="1" cellpadding="10" cellspacing="0">
     <thead>
         <tr style="background-color: #333; color: white;">
