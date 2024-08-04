@@ -84,3 +84,43 @@
   <img align="center" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbs30&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vbs30" />
   <img align="center" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api?username=vbs30&show_icons=true&locale=en&theme=tokyonight" alt="vbs30" />
 </p>
+
+<br>
+
+<h2>Systenics Solutions Assignments</h2>
+    <table border="1" cellpadding="10" cellspacing="0">
+        <thead>
+            <tr style="background-color: #333; color: white;">
+                <th>Topics</th>
+                <th>Status</th>
+                <th>Work-Links</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr style="background-color: #444; color: white;">
+                <td>JavaScript</td>
+                <td>Completed</td>
+                <td><a href="https://domain-name-validator-company-task1.vercel.app/">Check Work</a></td>
+            </tr>
+            <tr style="background-color: #555; color: white;">
+                <td>jQuery</td>
+                <td>Completed</td>
+                <td><a href="https://form-validation-company-task2.vercel.app/">Check Work</a></td>
+            </tr>
+            <tr style="background-color: #444; color: white;">
+                <td>HTML-CSS</td>
+                <td>Completed</td>
+                <td><a href="https://mockup-page.vercel.app/">Check Work</a></td>
+            </tr>
+            <tr style="background-color: #555; color: white;">
+                <td>Bootstrap - 3.4.1</td>
+                <td>Completed</td>
+                <td><a href="https://mademoiselle-mockup-page.vercel.app/">Check Work</a></td>
+            </tr>
+            <tr style="background-color: #444; color: white;">
+                <td>C#</td>
+                <td>Ongoing</td>
+                <td><a href="" style="color: #fff;"></a></td>
+            </tr>
+        </tbody>
+    </table>
