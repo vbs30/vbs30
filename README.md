@@ -166,3 +166,6 @@
   <img align="center" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbs30&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vbs30" />
   <img align="center" style="margin-left: 10px;" src="https://github-readme-stats.vercel.app/api?username=vbs30&show_icons=true&locale=en&theme=tokyonight" alt="vbs30" />
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vbs30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
