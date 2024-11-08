@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/vbs30/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=BE+Information+Technology;Full+Stack+Developer;Full+Stack%20|%20DevOps%20|%20ML%20Enthusiast;Ambitious+Energetic&center=true&width=500&height=50"></a>
 </p>
-<!-- <img src="https://komarev.com/ghpvc/?username=vbs30&label=PROFILE+VIEWS&style=for-the-badge&color=orange"> -->
 
 <img align="right" alt="Coder GIF" height=250 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
@@ -14,7 +13,7 @@
 - 👯 I’m looking to collaborate on **many single handed projects and other tasks.**
 
 - 📫 Reach me at **vbs02002@gmail.com**
-
+<br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=vbs30&label=Visitors&color=11&icon=1&pretty=true" />
 </a>
