@@ -15,6 +15,9 @@
 
 - 📫 Reach me at **vbs02002@gmail.com**
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=vbs30&label=Visitors&color=11&icon=1&pretty=true" />
+</a>
 
 <br>
 <h3 align="left">Connect with me:</h3>
