@@ -1,14 +1,15 @@
+![image](https://github.com/user-attachments/assets/ab8eb6d8-b613-4cc0-aec3-3852b1869d09)
 <h1 align="center">Hi, I'm Vinayak Suryavanshi</h1>
 
 <p align="center">
-  <a href="https://github.com/vbs30/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=BE+Information+Technology;Full+Stack+Developer;Full+Stack%20|%20DevOps%20|%20ML%20Enthusiast;Ambitious+Energetic&center=true&width=500&height=50"></a>
+  <a href="https://github.com/vbs30/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;Full+Stack+Developer;MERN+Stack+Developer;Full+Stack%20|%20DevOps%20|%20ML%20Enthusiast;Ambitious+Energetic&center=true&width=500&height=50"></a>
 </p>
 
 <img align="right" alt="Coder GIF" height=250 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 🔭 I’m currently working on **A Machine Learning Project named Predicting Missing Values using Hybrid Imputation Method.**
+- 🔭 I’m currently working on **AI Powered Calculator**
 
-- 🌱 I’m currently learning **Machine Learning, Docker and Microsoft Azure.**
+- 🌱 I’m currently learning **DevOps and Agile Methodologies**
 
 - 👯 I’m looking to collaborate on **many single handed projects and other tasks.**
 
