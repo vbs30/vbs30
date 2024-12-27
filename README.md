@@ -61,8 +61,8 @@
         </tr>
         <tr style="background-color: #444; color: white;">
             <td>C#</td>
-            <td>Ongoing</td>
-            <td><a href="" style="color: #fff;"></a></td>
+            <td>Completed</td>
+            <td><a href="https://github.com/vbs30/File-Explorer-Assignment" style="color: #fff;"></a></td>
         </tr>
     </tbody>
 </table>
