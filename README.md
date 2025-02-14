@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 🔭 I’m currently working on **AI Powered Calculator**
+- 🔭 I’m currently working on **VidVerse - MERN stack production grade Video Streamer**
 
 - 🌱 I’m currently learning **DevOps and Agile Methodologies**
 
