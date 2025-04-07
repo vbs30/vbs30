@@ -7,17 +7,14 @@
 
 <img align="right" alt="Coder GIF" height=250 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 🔭 I’m currently working on **VidVerse - MERN stack production grade Video Streamer**
-
-- 🌱 I’m currently learning **DevOps and Agile Methodologies**
-
-- 👯 I’m looking to collaborate on **many single handed projects and other tasks.**
-
-- 📫 Reach me at **vbs02002@gmail.com**
+- 🎬 I'm currently working on **VidVerse** - A production-grade video streaming platform built with Next.js, TypeScript, and Node.js
+- 🚀 I'm currently expanding my skills in **DevOps and Agile Methodologies**
+- 🤝 I'm open to collaborating on **exciting projects where I can lead development or contribute meaningfully**
+- 💻 Passionate about building scalable and performant web applications
+- ⚡ Fun fact: I love tackling challenging projects solo to sharpen my full-stack skills
+- 📫 How to reach me: **vbs02002@gmail.com**
+- 🌐 Let's connect and create something amazing together!
 <br>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=vbs30&label=Visitors&color=11&icon=1&pretty=true" />
-</a>
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -27,6 +24,61 @@
 <a href="https://medium.com/@vbs02002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vbs02002" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/VBS_30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vbs30" height="30" width="40" /></a>
 </p>
+<br>
+
+<br>
+
+<h2>My Project Repositories</h2>
+<table border="1" cellpadding="10" cellspacing="0">
+    <thead>
+        <tr style="background-color: #333; color: white;">
+            <th>Repository-Name</th>
+            <th>Repository-Links</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="background-color: #444; color: white;">
+            <td>VidVerse--Universe-of-Videos</td>
+            <td><a href="https://github.com/vbs30/VidVerse-Universe-of-Videos">Check Repo</a>
+            </td>
+        </tr>
+        <tr style="background-color: #444; color: white;">
+            <td>BlogHub - Modern Blogging Platform</td>
+            <td><a href="https://github.com/vbs30/BlogHub---Modern-Blogging-Platform">Check Repo</a>
+            </td>
+        </tr>  
+        <tr style="background-color: #444; color: white;">
+            <td>PC-Powerhouse: The-One-Stop-Shop-For-Computer-Parts</td>
+            <td><a href="https://github.com/vbs30/PC-Powerhouse-The-One-Stop-Shop-for-Computer-Parts">Check Repo</a>
+            </td>
+        </tr>
+        <tr style="background-color: #555; color: white;">
+            <td>Basket-Trends: Understanding-Consumer's-Choice</td>
+            <td><a href="https://github.com/vbs30/Basket-Trends-Understanding-Consumer-s-Choice">Check Repo</a></td>
+        </tr>
+        <tr style="background-color: #444; color: white;">
+            <td>Shopify</td>
+            <td><a href="https://github.com/vbs30/Shopify">Check Repo</a></td>
+        </tr>
+        <tr style="background-color: #555; color: white;">
+            <td>Smart Container</td>
+            <td><a href="https://github.com/vbs30/Smart-Container">Check Repo</a></td>
+        </tr>
+        <tr style="background-color: #444; color: white;">
+            <td>Fresh from the Farm</td>
+            <td><a href="https://github.com/vbs30/Fresh-From-the-Farm">Check Repo</a></td>
+        </tr>
+        <tr style="background-color: #555; color: white;">
+            <td>Health Insurance System</td>
+            <td><a href="https://github.com/vbs30/Health-Insurance-System">Check Repo</a></td>
+        </tr>
+        <tr style="background-color: #444; color: white;">
+            <td>Smart City Management System</td>
+            <td><a href="https://github.com/vbs30/Smart-City-Management-System">Check Repo</a></td>
+        </tr>
+    </tbody>
+</table>
+
 <br>
 
 <h2>Systenics Solutions Training Assignments</h2>
@@ -63,54 +115,6 @@
             <td>C#</td>
             <td>Completed</td>
             <td><a href="https://github.com/vbs30/File-Explorer-Assignment" style="color: #fff;">Check Work</a></td>
-        </tr>
-    </tbody>
-</table>
-
-<br>
-
-<h2>My Project Repositories</h2>
-<table border="1" cellpadding="10" cellspacing="0">
-    <thead>
-        <tr style="background-color: #333; color: white;">
-            <th>Repository-Name</th>
-            <th>Repository-Links</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr style="background-color: #444; color: white;">
-            <td>BlogHub - Modern Blogging Platform</td>
-            <td><a href="https://github.com/vbs30/BlogHub---Modern-Blogging-Platform">Check Repo</a>
-            </td>
-        </tr>  
-        <tr style="background-color: #444; color: white;">
-            <td>PC-Powerhouse: The-One-Stop-Shop-For-Computer-Parts</td>
-            <td><a href="https://github.com/vbs30/PC-Powerhouse-The-One-Stop-Shop-for-Computer-Parts">Check Repo</a>
-            </td>
-        </tr>
-        <tr style="background-color: #555; color: white;">
-            <td>Basket-Trends: Understanding-Consumer's-Choice</td>
-            <td><a href="https://github.com/vbs30/Basket-Trends-Understanding-Consumer-s-Choice">Check Repo</a></td>
-        </tr>
-        <tr style="background-color: #444; color: white;">
-            <td>Shopify</td>
-            <td><a href="https://github.com/vbs30/Shopify">Check Repo</a></td>
-        </tr>
-        <tr style="background-color: #555; color: white;">
-            <td>Smart Container</td>
-            <td><a href="https://github.com/vbs30/Smart-Container">Check Repo</a></td>
-        </tr>
-        <tr style="background-color: #444; color: white;">
-            <td>Fresh from the Farm</td>
-            <td><a href="https://github.com/vbs30/Fresh-From-the-Farm">Check Repo</a></td>
-        </tr>
-        <tr style="background-color: #555; color: white;">
-            <td>Health Insurance System</td>
-            <td><a href="https://github.com/vbs30/Health-Insurance-System">Check Repo</a></td>
-        </tr>
-        <tr style="background-color: #444; color: white;">
-            <td>Smart City Management System</td>
-            <td><a href="https://github.com/vbs30/Smart-City-Management-System">Check Repo</a></td>
         </tr>
     </tbody>
 </table>
