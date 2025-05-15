@@ -46,7 +46,7 @@
         </tr>  
         <tr style="background-color: #444; color: white;">
             <td>PC-Powerhouse: The-One-Stop-Shop-For-Computer-Parts</td>
-            <td><a href="https://github.com/vbs30/PC-Powerhouse-The-One-Stop-Shop-for-Computer-Parts">Check Repo</a>
+            <td><a href="https://github.com/vbs30/PC-Powerhouse---Ecommerce">Check Repo</a>
             </td>
         </tr>
         <tr style="background-color: #555; color: white;">
